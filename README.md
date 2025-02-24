@@ -7,4 +7,4 @@ This Repository is protected By Creative Commons Attribution-ShareAlike 4.0 Inte
 
 
 # Star History
-![Star History Chart](https://api.star-history.com/svg?repos=NNIDNHU/BG-Images&type=Date)(https://star-history.com/#NNIDNHU/BG-Images&Date)
+![Star History Chart](https://api.star-history.com/svg?repos=NNIDNHU/BG-Images&type=Date)
